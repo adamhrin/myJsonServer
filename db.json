@@ -2,9 +2,35 @@
   "markers": {
     "markers": [
       {
-        "value1": "test1",
-        "value2": "test2"
-      }
+        "lat": 62.237566,
+        "lng": 25.759226,
+        "title": "Schaumanin puistotie 22, 40100 Jyväskylä"
+      },
+      {
+        "lat": 62.238994,
+        "lng": 25.755835,
+        "title": "Schaumanin puistotie 17, 40100 Jyväskylä"
+      },
+      {
+        "lat": 62.243429,
+        "lng": 25.753110,
+        "title": "Vapaudenkatu 56, 40100 Jyväskylä"
+      },
+      {
+        "lat": 62.240384,
+        "lng": 25.746635,
+        "title": "Vapaudenkatu 47, 40100 Jyväskylä"
+      },
+      {
+        "lat": 62.256124,
+        "lng": 25.770153,
+        "title": "Unnamed Road, 40320 Jyväskylä"
+      },
+      {
+        "lat": 62.247790,
+        "lng": 25.737389,
+        "title": "46501, 40720 Jyväskylä"
+      },
     ]
   }
 }
