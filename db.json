@@ -1,8 +1,10 @@
 {
-  "markers": [
-    {
-      "value1": "test1",
-      "value2": "test2"
-    }
-  ]
+  "markers": {
+    "markers": [
+      {
+        "value1": "test1",
+        "value2": "test2"
+      }
+    ]
+  }
 }
